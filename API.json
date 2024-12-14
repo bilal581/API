@@ -22,7 +22,8 @@
   "Acceuil": [
     {
       "image": "https://play-lh.googleusercontent.com/mrjcLx29YdA8FE29vfkX4GOWrKKvEVM_PUJydLiFKpq_bmYV9Cric5T77skgaIN9PLA",
-      "link": "https://iptv-org.github.io/iptv/languages/jpn.m3u"
+      "link": "https://iptv-org.github.io/iptv/languages/jpn.m3u",
+      "height": 400
     }
   ]
 }
