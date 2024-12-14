@@ -1,28 +1,28 @@
 {
   "Channels": [
-  {
-    "category": "world",
-    "link": "https://iptv-org.github.io/iptv/countries/ma.m3u",
-    "image": "https://dramaqueensreview.com/wp-content/uploads/2016/07/4284.jpg",
-    "title": "1.45K"
-  },
-  {
-    "category": "sport",
-    "link": "https://iptv-list.com/Download/109/iptv-m3u-file/3468/sport-iptv.m3u8",
-    "image": "https://img.utdstc.com/icon/020/218/020218c4b154200804bb465c30411537ed3ee902984da6afe616d2a541b1e8fc:200",
-    "title": "111K"
-  },
-  {
-    "category": "other",
-    "link": "https://iptv-org.github.io/iptv/languages/fra.m3u",
-    "image": "https://images.scalebranding.com/arabian-literature-logo-11ab20d3-67cb-4f96-8454-4480b5f99fc5.jpg",
-    "title": "47K"
-  }
+    {
+      "category": "world",
+      "link": "https://iptv-org.github.io/iptv/countries/ma.m3u",
+      "image": "https://dramaqueensreview.com/wp-content/uploads/2016/07/4284.jpg",
+      "title": "1.45K"
+    },
+    {
+      "category": "sport",
+      "link": "https://iptv-list.com/Download/109/iptv-m3u-file/3468/sport-iptv.m3u8",
+      "image": "https://img.utdstc.com/icon/020/218/020218c4b154200804bb465c30411537ed3ee902984da6afe616d2a541b1e8fc:200",
+      "title": "111K"
+    },
+    {
+      "category": "other",
+      "link": "https://iptv-org.github.io/iptv/languages/fra.m3u",
+      "image": "https://images.scalebranding.com/arabian-literature-logo-11ab20d3-67cb-4f96-8454-4480b5f99fc5.jpg",
+      "title": "47K"
+    }
   ],
   "Acceuil": [
     {
-      IMAGE:"https://upload.wikimedia.org/wikipedia/en/e/e1/Vikings_Season_5_Volume_1.png",
-      LINK:"https://iptv-org.github.io/iptv/languages/jpn.m3u",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Vikings_Season_5_Volume_1.png",
+      "link": "https://iptv-org.github.io/iptv/languages/jpn.m3u"
     }
   ]
-  }
+}
