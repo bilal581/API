@@ -18,5 +18,10 @@
     "title": "Instagram",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/instagram.jpg",
     "url": "https://www.instagram.com"
+  },
+  {
+    "title": "Chatgpt",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/chatgpt.jpg",
+    "url": "https://www.chatgpt.com"
   }
 ]
