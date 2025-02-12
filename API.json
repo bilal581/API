@@ -1,17 +1,17 @@
 [
   {
     "title": "Google",
-    "image": "assets/google.jpg",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/google.jpg",
     "url": "https://www.google.com"
   },
   {
     "title": "YouTube",
-    "image": "assets/youtube.jpg",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/youtube.jpg",
     "url": "https://www.youtube.com"
   },
   {
     "title": "Bing",
-    "image": "assets/bing.jpg",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/bing.jpg",
     "url": "https://www.bing.com"
   }
 ]
