@@ -23,5 +23,10 @@
     "title": "Chatgpt",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/chatgpt.jpg",
     "url": "https://www.chatgpt.com"
+  },
+  {
+    "title": "Deepseek",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/deepseek.jpg",
+    "url": "https://chat.deepseek.com"
   }
 ]
