@@ -13,5 +13,10 @@
     "title": "Bing",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/bing.jpg",
     "url": "https://www.bing.com"
+  },
+  {
+    "title": "Instagram",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/instagram.jpg",
+    "url": "https://www.instagram.com"
   }
 ]
