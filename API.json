@@ -33,5 +33,45 @@
     "title": "Spotify",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/spot.jpg",
     "url": "https://open.spotify.com"
+  },
+  {
+    "title": "Facebook",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/facebook.jpg",
+    "url": "https://facebook.com"
+  },
+  {
+    "title": "Telegram",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/telegram.jpg",
+    "url": "https://telegram.com"
+  },
+  {
+    "title": "Duolingo",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/duolingo.jpg",
+    "url": "https://duolingo.com"
+  },
+  {
+    "title": "Pinterest",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/pinterest.jpg",
+    "url": "https://pinterest.com"
+  },
+  {
+    "title": "X",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/x.jpg",
+    "url": "https://x.com"
+  },
+  {
+    "title": "Snapshat",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/snapshat.jpg",
+    "url": "https://snapshat.com"
+  },
+  {
+    "title": "Netflix",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/netflix.jpg",
+    "url": "https://netflix.com"
+  },
+  {
+    "title": "Wikipedia",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/wikipedia.jpg",
+    "url": "https://wikipedia.com"
   }
 ]
