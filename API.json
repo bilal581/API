@@ -73,5 +73,75 @@
     "title": "Wikipedia",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/wikipedia.jpg",
     "url": "https://wikipedia.com"
+  },
+  {
+    "title": "Translate",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/translate.jpg",
+    "url": "https://translate.google.com"
+  },
+  {
+    "title": "Discord",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/discord.jpg",
+    "url": "https://discord.com"
+  },
+  {
+    "title": "Chess",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/chess.jpg",
+    "url": "https://www.chess.com"
+  },
+  {
+    "title": "Canva",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/canva.jpg",
+    "url": "https://www.canva.com"
+  },
+  {
+    "title": "Deepseek",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/deepseek.jpg",
+    "url": "https://deepseek.ai"
+  },
+  {
+    "title": "Indeed",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/indeed.png",
+    "url": "https://www.indeed.com"
+  },
+  {
+    "title": "LinkedIn",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/linkedin.jpg",
+    "url": "https://www.linkedin.com"
+  },
+  {
+    "title": "iLovePDF",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/pdf.jpg",
+    "url": "https://www.ilovepdf.com"
+  },
+  {
+    "title": "Reddit",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/reddit.jpg",
+    "url": "https://www.reddit.com"
+  },
+  {
+    "title": "Shopify",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/shopify.jpg",
+    "url": "https://www.shopify.com"
+  },
+  {
+    "title": "Threads",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/threads.jpg",
+    "url": "https://www.threads.net"
+  },
+  {
+    "title": "TikTok",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/tiktok.jpg",
+    "url": "https://www.tiktok.com"
+  },
+  {
+    "title": "PayPal",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/paypal.jpg",
+    "url": "https://www.paypal.com"
+  },
+  {
+    "title": "Zoom",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/zoom.jpg",
+    "url": "https://www.zoom.us"
   }
 ]
