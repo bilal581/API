@@ -41,7 +41,7 @@
   },
   {
     "title": "Telegram",
-    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/telegram.jpg",
+    "image": "https://web.telegram.org/k/",
     "url": "https://telegram.com"
   },
   {
@@ -60,9 +60,9 @@
     "url": "https://x.com"
   },
   {
-    "title": "Snapshat",
+    "title": "Snapchat",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/snapshat.jpg",
-    "url": "https://snapshat.com"
+    "url": "https://www.snapchat.com/"
   },
   {
     "title": "Netflix",
