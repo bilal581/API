@@ -62,7 +62,7 @@
   {
     "title": "Snapchat",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/snapshat.jpg",
-    "url": "https://www.snapchat.com/"
+    "url": "https://accounts.snapchat.com/accounts/v2/login"
   },
   {
     "title": "Netflix",
@@ -97,7 +97,7 @@
   {
     "title": "Deepseek",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/deepseek.jpg",
-    "url": "https://deepseek.ai"
+    "url": "https://chat.deepseek.com"
   },
   {
     "title": "Indeed",
@@ -122,7 +122,7 @@
   {
     "title": "Shopify",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/shopify.jpg",
-    "url": "https://www.shopify.com"
+    "url": "https://accounts.shopify.com/lookup"
   },
   {
     "title": "Threads",
@@ -137,11 +137,11 @@
   {
     "title": "PayPal",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/paypal.jpg",
-    "url": "https://www.paypal.com"
+    "url": "https://www.paypal.com/signin"
   },
   {
     "title": "Zoom",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/zoom.jpg",
-    "url": "https://www.zoom.us"
+    "url": "https://zoom.us/join"
   }
 ]
