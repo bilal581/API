@@ -143,5 +143,30 @@
     "title": "Zoom",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/zoom.jpg",
     "url": "https://zoom.us/join"
+  },
+  {
+    "title": "Picsart",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/picsart.jpg",
+    "url": "https://picsart.com"
+  },
+  {
+    "title": "Crunchyroll",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/crunchyroll.jpg",
+    "url": "https://www.crunchyroll.com"
+  },
+  {
+    "title": "IMDb",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/imdb.jpg",
+    "url": "https://www.imdb.com"
+  },
+  {
+    "title": "Twitch",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/twitch.jpg",
+    "url": "https://www.twitch.tv"
+  },
+  {
+    "title": "Rosetta Stone",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/rosetta.jpg",
+    "url": "https://www.rosettastone.com"
   }
 ]
