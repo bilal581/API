@@ -177,7 +177,7 @@
   {
     "title": "Disney",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/disney.jpg",
-    "url": "https://www.disney.com"
+    "url": "https://www.disneyplus.com"
   },
   {
     "title": "eBay",
@@ -193,11 +193,6 @@
     "title": "Alibaba",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/alibaba.jpg",
     "url": "https://www.alibaba.com"
-  },
-  {
-    "title": "Sein",
-    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/sein.jpg",
-    "url": "https://www.sein.com"
   },
   {
     "title": "Osm",
