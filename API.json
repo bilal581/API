@@ -198,5 +198,10 @@
     "title": "Sein",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/sein.jpg",
     "url": "https://www.sein.com"
+  },
+  {
+    "title": "Osm",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/osm.jpg",
+    "url": "https://en.onlinesoccermanager.com"
   }
 ]
