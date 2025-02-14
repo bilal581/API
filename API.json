@@ -168,5 +168,40 @@
     "title": "Rosetta Stone",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/rosetta.jpg",
     "url": "https://www.rosettastone.com"
+  },
+  {
+    "title": "AliExpress",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/aliexpress.jpg",
+    "url": "https://www.aliexpress.com"
+  },
+  {
+    "title": "Amazon",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/amazon.jpg",
+    "url": "https://www.amazon.com"
+  },
+  {
+    "title": "Disney",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/disney.jpg",
+    "url": "https://www.disney.com"
+  },
+  {
+    "title": "eBay",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/ebay.jpg",
+    "url": "https://www.ebay.com"
+  },
+  {
+    "title": "Temu",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/temu.jpg",
+    "url": "https://www.temu.com"
+  },
+  {
+    "title": "Alibaba",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/alibaba.jpg",
+    "url": "https://www.alibaba.com"
+  },
+  {
+    "title": "Sein",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/sein.jpg",
+    "url": "https://www.sein.com"
   }
 ]
