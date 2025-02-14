@@ -2,201 +2,241 @@
   {
     "title": "Google",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/google.jpg",
-    "url": "https://www.google.com"
+    "url": "https://www.google.com",
+    "type": "app"
   },
   {
     "title": "YouTube",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/youtube.jpg",
-    "url": "https://www.youtube.com"
+    "url": "https://www.youtube.com",
+    "type": "app"
   },
   {
     "title": "Bing",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/bing.jpg",
-    "url": "https://www.bing.com"
+    "url": "https://www.bing.com",
+    "type": "app"
   },
   {
     "title": "Instagram",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/instagram.jpg",
-    "url": "https://www.instagram.com"
+    "url": "https://www.instagram.com",
+    "type": "app"
   },
   {
     "title": "Chatgpt",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/chatgpt.jpg",
-    "url": "https://www.chatgpt.com"
+    "url": "https://www.chatgpt.com",
+    "type": "app"
   },
   {
     "title": "Copilot",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/copilot.jpg",
-    "url": "https://copilot.microsoft.com"
+    "url": "https://copilot.microsoft.com",
+    "type": "app"
   },
   {
     "title": "Spotify",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/spot.jpg",
-    "url": "https://open.spotify.com"
+    "url": "https://open.spotify.com",
+    "type": "app"
   },
   {
     "title": "Facebook",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/facebook.jpg",
-    "url": "https://facebook.com"
+    "url": "https://facebook.com",
+    "type": "app"
   },
   {
     "title": "Telegram",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/telegram.jpg",
-    "url": "https://web.telegram.org/k/"
+    "url": "https://web.telegram.org/k/",
+    "type": "app"
   },
   {
     "title": "Duolingo",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/duolingo.jpg",
-    "url": "https://duolingo.com"
+    "url": "https://duolingo.com",
+    "type": "app"
   },
   {
     "title": "Pinterest",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/pinterest.jpg",
-    "url": "https://pinterest.com"
+    "url": "https://pinterest.com",
+    "type": "app"
   },
   {
     "title": "X",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/x.jpg",
-    "url": "https://x.com"
+    "url": "https://x.com",
+    "type": "app"
   },
   {
     "title": "Snapchat",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/snapshat.jpg",
-    "url": "https://accounts.snapchat.com/accounts/v2/login"
+    "url": "https://accounts.snapchat.com/accounts/v2/login",
+    "type": "app"
   },
   {
     "title": "Netflix",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/netflix.jpg",
-    "url": "https://netflix.com"
+    "url": "https://netflix.com",
+    "type": "app"
   },
   {
     "title": "Wikipedia",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/wikipedia.jpg",
-    "url": "https://wikipedia.com"
+    "url": "https://wikipedia.com",
+    "type": "app"
   },
   {
     "title": "Translate",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/translate.jpg",
-    "url": "https://translate.google.com"
+    "url": "https://translate.google.com",
+    "type": "app"
   },
   {
     "title": "Discord",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/discord.jpg",
-    "url": "https://discord.com/login"
+    "url": "https://discord.com/login",
+    "type": "app"
   },
   {
     "title": "Chess",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/chess.jpg",
-    "url": "https://www.chess.com"
+    "url": "https://www.chess.com",
+    "type": "game"
   },
   {
     "title": "Canva",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/canva.jpg",
-    "url": "https://www.canva.com"
+    "url": "https://www.canva.com",
+    "type": "app"
   },
   {
     "title": "Deepseek",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/deepseek.jpg",
-    "url": "https://chat.deepseek.com"
+    "url": "https://chat.deepseek.com",
+    "type": "app"
   },
   {
     "title": "Indeed",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/indeed.png",
-    "url": "https://www.indeed.com"
+    "url": "https://www.indeed.com",
+    "type": "app"
   },
   {
     "title": "LinkedIn",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/linkedin.jpg",
-    "url": "https://www.linkedin.com"
+    "url": "https://www.linkedin.com",
+    "type": "app"
   },
   {
     "title": "iLovePDF",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/pdf.jpg",
-    "url": "https://www.ilovepdf.com"
+    "url": "https://www.ilovepdf.com",
+    "type": "app"
   },
   {
     "title": "Reddit",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/reddit.jpg",
-    "url": "https://www.reddit.com"
+    "url": "https://www.reddit.com",
+    "type": "app"
   },
   {
     "title": "Threads",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/threads.jpg",
-    "url": "https://www.threads.net"
+    "url": "https://www.threads.net",
+    "type": "app"
   },
   {
     "title": "TikTok",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/tiktok.jpg",
-    "url": "https://www.tiktok.com"
+    "url": "https://www.tiktok.com",
+    "type": "app"
   },
   {
     "title": "PayPal",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/paypal.jpg",
-    "url": "https://www.paypal.com/signin"
+    "url": "https://www.paypal.com/signin",
+    "type": "app"
   },
   {
     "title": "Zoom",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/zoom.jpg",
-    "url": "https://zoom.us/join"
+    "url": "https://zoom.us/join",
+    "type": "app"
   },
   {
     "title": "Picsart",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/picsart.jpg",
-    "url": "https://picsart.com"
+    "url": "https://picsart.com",
+    "type": "app"
   },
   {
     "title": "Crunchyroll",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/crunchyroll.jpg",
-    "url": "https://www.crunchyroll.com"
+    "url": "https://www.crunchyroll.com",
+    "type": "app"
   },
   {
     "title": "IMDb",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/imdb.jpg",
-    "url": "https://www.imdb.com"
+    "url": "https://www.imdb.com",
+    "type": "app"
   },
   {
     "title": "Twitch",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/twitch.jpg",
-    "url": "https://www.twitch.tv"
+    "url": "https://www.twitch.tv",
+    "type": "app"
   },
   {
     "title": "Rosetta Stone",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/rosetta.jpg",
-    "url": "https://www.rosettastone.com"
+    "url": "https://www.rosettastone.com",
+    "type": "app"
   },
   {
     "title": "AliExpress",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/aliexpress.jpg",
-    "url": "https://www.aliexpress.com"
+    "url": "https://www.aliexpress.com",
+    "type": "app"
   },
   {
     "title": "Amazon",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/amazon.jpg",
-    "url": "https://www.amazon.com"
+    "url": "https://www.amazon.com",
+    "type": "app"
   },
   {
     "title": "Disney",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/disney.jpg",
-    "url": "https://www.disneyplus.com"
+    "url": "https://www.disneyplus.com",
+    "type": "app"
   },
   {
     "title": "eBay",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/ebay.jpg",
-    "url": "https://www.ebay.com"
+    "url": "https://www.ebay.com",
+    "type": "app"
   },
   {
     "title": "Temu",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/temu.jpg",
-    "url": "https://www.temu.com"
+    "url": "https://www.temu.com",
+    "type": "app"
   },
   {
     "title": "Alibaba",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/alibaba.jpg",
-    "url": "https://www.alibaba.com"
+    "url": "https://www.alibaba.com",
+    "type": "app"
   },
   {
     "title": "Osm",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/osm.jpg",
-    "url": "https://en.onlinesoccermanager.com"
+    "url": "https://en.onlinesoccermanager.com",
+    "type": "game"
   }
 ]
