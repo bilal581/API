@@ -244,11 +244,5 @@
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/osm.jpg",
     "url": "https://en.onlinesoccermanager.com",
     "type": "game"
-  },
-  {
-    "title": "Slither.io",
-    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/slither.jpg",
-    "url": "http://slither.com/io",
-    "type": "game"
   }
 ]
