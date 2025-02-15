@@ -138,6 +138,12 @@
     "type": "app"
   },
   {
+    "title": "iLoveIMG",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/iloveimg.png",
+    "url": "https://www.iloveimg.com",
+    "type": "app"
+  },
+  {
     "title": "Reddit",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/reddit.jpg",
     "url": "https://www.reddit.com",
