@@ -244,5 +244,11 @@
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/osm.jpg",
     "url": "https://en.onlinesoccermanager.com",
     "type": "game"
+  },
+  {
+    "title": "Kick",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/kick.jpg",
+    "url": "https://kick.com",
+    "type": "app"
   }
 ]
