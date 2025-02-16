@@ -180,6 +180,12 @@
     "type": "app"
   },
   {
+    "title": "Booking",
+    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/booking.jpg",
+    "url": "https://www.booking.com",
+    "type": "app"
+  },
+  {
     "title": "Crunchyroll",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/crunchyroll.jpg",
     "url": "https://www.crunchyroll.com",
