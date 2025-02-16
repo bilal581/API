@@ -48,12 +48,6 @@
     "type": "app"
   },
   {
-    "title": "Telegram",
-    "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/telegram.jpg",
-    "url": "https://web.telegram.org/k/",
-    "type": "app"
-  },
-  {
     "title": "Duolingo",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/duolingo.jpg",
     "url": "https://duolingo.com",
