@@ -242,13 +242,13 @@
   {
     "title": "Osm",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/osm.jpg",
-    "url": "https://fantasy.premierleague.com",
+    "url": "https://en.onlinesoccermanager.com",
     "type": "game"
   },
   {
     "title": "Fantasy",
     "image": "https://raw.githubusercontent.com/bilal581/API/refs/heads/main/Pictures/fantasy.jpg",
-    "url": "https://en.onlinesoccermanager.com",
+    "url": "https://fantasy.premierleague.com",
     "type": "game"
   },
   {
